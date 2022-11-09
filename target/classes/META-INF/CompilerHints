@@ -3,4 +3,8 @@ dontinline,*.*_avgt_jmhStub
 dontinline,*.*_sample_jmhStub
 dontinline,*.*_ss_jmhStub
 dontinline,*.*_thrpt_jmhStub
-inline,org/sample/MyBenchmark.testMethod
+inline,org/sample/JMHSample_02_BenchmarkModes.measureAvgTime
+inline,org/sample/JMHSample_02_BenchmarkModes.measureMultiple
+inline,org/sample/JMHSample_02_BenchmarkModes.measureSamples
+inline,org/sample/JMHSample_02_BenchmarkModes.measureSingleShot
+inline,org/sample/JMHSample_02_BenchmarkModes.measureThroughput
